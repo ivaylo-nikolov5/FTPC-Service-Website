@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FTPC-Service-Website/static/css/main.0decfd87.css",
+    "main.js": "/FTPC-Service-Website/static/js/main.77147050.js",
+    "static/media/bgVideo.mp4": "/FTPC-Service-Website/static/media/bgVideo.66fa21826eba7b6d7af9.mp4",
+    "index.html": "/FTPC-Service-Website/index.html",
+    "main.0decfd87.css.map": "/FTPC-Service-Website/static/css/main.0decfd87.css.map",
+    "main.77147050.js.map": "/FTPC-Service-Website/static/js/main.77147050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0decfd87.css",
+    "static/js/main.77147050.js"
+  ]
+}
